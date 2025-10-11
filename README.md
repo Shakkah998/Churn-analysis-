@@ -45,3 +45,6 @@ This project uses **Power BI dashboards** to perform a full churn analysis. It e
 - Demographic or region differences in churn rates are visible (if applicable).  
 
 ---
+
+## 🖼 Results / Screenshot
+![Image Alt](https://github.com/Shakkah998/Churn-analysis-/blob/495d1f67d203719e95bd7e45bcfaf46766dd847b/Overview.png)
